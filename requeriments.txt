@@ -1,0 +1,4 @@
+numpy
+rapidfuzz
+sentence-transformers
+scikit-learn
