@@ -22,7 +22,7 @@ def enviar():
         )
 
         if nueva:
-            chatbot.aprender(mensaje,nueva)
+            chatbot.aprender(chatbot.normalizar(mensaje), nueva)
 
             chat.insert(tk.END,"IA: He aprendido algo nuevo.\n")
 
