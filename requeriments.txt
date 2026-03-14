@@ -2,3 +2,8 @@ numpy
 rapidfuzz
 sentence-transformers
 scikit-learn
+pypdf
+peechRecognition
+vosk
+pocketsphinx
+pyaudio
